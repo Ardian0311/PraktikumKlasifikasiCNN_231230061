@@ -1,1 +1,2 @@
-# PraktikumOcean
+# PraktikumKlasifikasiCNN_231230061
+# PraktikumKlasifikasiCNN_231230061
